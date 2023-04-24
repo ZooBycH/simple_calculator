@@ -8,7 +8,7 @@
  
  * В папке с проектом создаем виртуальное окружение (на Ubuntu необходимо сначала его установить ```sudo apt install python3-venv```
  а так же установить менеджер пакетов ```sudo apt install -y python3-pip```):
-    * ```python3 -m venv имя_окружения``` либо ```python -m venv имя_окружения```
+    * ```python3 -m venv имя_окружения```(Mac, Ubuntu) либо ```python -m venv имя_окружения```(Windows)
   
  * Активируем виртуальное окружение:
     * Допустим, окружение создано в директории c:\user\simple_calculator\
