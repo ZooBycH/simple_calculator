@@ -4,9 +4,14 @@
   
  ## настройка запуска
  * Клонируем код ```git clone https://github.com/ZooBycH/simple_calculator``` (или скачиваем zip-архив)
- * В папке с приложением создаем виртуальное окружение (на Ubuntu необходимо сначала его установить ```sudo apt install python3-venv```):
+ * В папке с приложением создаем виртуальное окружение (на Ubuntu необходимо сначала его установить ```sudo apt install python3-venv```
+ а так же установить менеджер пакетов ```sudo apt install -y python3-pip```):
     * ```python3 -m venv имя_окружения```
-    * 
+ * Активируем виртуальное окружение:
+    * Допустим, окружение создано в директории c:\user\simple_calculator\
+    * Windows: ```c:\user\simple_calculator\имя_окружения\Scripts\activate.bat```
+    * на macOS и Ubuntu: ```source имя_окружения/bin/activate```
+  
  
   
   
