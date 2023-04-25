@@ -1,6 +1,6 @@
 # simple_calculator
-* Программа написана на языке Python. Для запуска  потребуется установка Python (Windows)
-  ссылка https://www.python.org/downloads/?roistat_visit=12724225, выбираем версию 3.10 (можно выше)
+* Программа написана на языке Python. Для запуска  потребуется установка Python (для Windows)
+  ссылка https://www.python.org/downloads/windows/, выбираем версию 3.10 (можно выше)
 
   
  ## настройка запуска
